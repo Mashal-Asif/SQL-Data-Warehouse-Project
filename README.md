@@ -20,3 +20,11 @@ This project demonstrates a comprehensive data ware housing and analytics soluti
 
 ---
 
+# BI: Analytics and Reporting (Data Analytics)
+### Objective
+Develop SQL-based analytics to deliver detailed insights into:
+1. Customer Behavior
+2. Product Performance
+3. Sales Trends
+
+These insights empower stakeholders with key business metrics, enabling strategic decision- making.
